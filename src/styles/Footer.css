@@ -35,6 +35,7 @@
     display: flex;
     flex-direction: column;
     padding: 1rem;
+    padding-left: 10rem;
 }
 
 .social {
@@ -54,4 +55,12 @@ p {
         grid-template-columns:1fr;
         grid-gap: 1px;
    }
+   .right {
+    margin-left: 60px;
+    height: 100%;
+    max-width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
 }
