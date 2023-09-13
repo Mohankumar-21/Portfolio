@@ -8,10 +8,10 @@ const Aboutcontent = () => {
     <div className="about">
         <div className="left">
          <h1>Who Am I?</h1>
-         <p>Hello! I'm a versatile developer who is passionate about both software development and front-end web development. With a deep love for coding, I possess a diverse skill set that allows me to create efficient, user-friendly software systems and captivating web experiences.<br></br>
+         <p>I am a dedicated civil engineer with a strong foundation in structural design and project management. Proficient in industry-standard software such as Staad Pro and AutoCAD, I bring precision and innovation to every project I undertake. My expertise allows me to create robust and efficient structural designs, ensuring the safety and longevity of the built environment. I am committed to delivering excellence in civil engineering, from concept to completion, and I continuously seek opportunities to leverage technology for optimal solutions. <br></br>
          <ul>
-         <li>In my <span>software development role</span>, I draw upon my knowledge of various programming languages and data structures to write clean and efficient code.</li> 
-         <li>As a <span>front-end developer</span>, I find joy in bringing designs to life through code. I have a strong grasp of HTML, CSS, and JavaScript, which enables me to craft visually appealing and responsive user interfaces.</li>
+         <li>Beyond my passion for civil engineering, I am also deeply enthusiastic about <span> Python development</span>. I believe that programming skills, particularly in Python, play a pivotal role in modern engineering. Python's versatility and extensive libraries have allowed me to enhance my engineering work by automating tasks, conducting data analysis, and creating computational models.</li> 
+       
          </ul></p>
          <Link to="/contact">
             <button className="btn">Contact</button>

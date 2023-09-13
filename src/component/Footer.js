@@ -12,14 +12,14 @@ const Footer = () => {
                 style={{color:"#fff", marginRight:"2rem"
                 }}/>
                 <div>
-                    <p>Salem city</p>
+                    <p>Hosur city</p>
                 </div>
                 </div>
                 <div className="phone">
                     <h4><FaPhone size={20} 
                       style={{color:"#fff", marginRight:"2rem"
                      }}/>
-                     +918778232531
+                     +919600361486
                    </h4>
                  
                 </div>
@@ -28,7 +28,7 @@ const Footer = () => {
                     <FaMailBulk size={20} 
                       style={{color:"#fff", marginRight:"2rem"
                      }}/>
-                     gmk9155@gmail.com
+                     sowndaryamano20@gmail.com
                    </h4>
                  
                 </div>

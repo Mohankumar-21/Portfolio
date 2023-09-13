@@ -1,37 +1,22 @@
-import chat from "../assets/chatap.jpg";
-import blog from "../assets/blog1.jpg";
-import Game from "../assets/mgame.jpg";
-import Feedback from "../assets/Feedback.jpg";
+import chat from "../assets/Loan.jpg";
+import Game from "../assets/timer1.jpg";
+
 
 const ProjectCardData = [
     {
         imgsrc : chat,
-        title  : "Chat Application using React",
-        text   : "This application is designed with the primary goal of delivering a frictionless and captivating chat experience for users within an online platform. Its core purpose revolves around facilitating connections, fostering communication, and enabling the exchange of thoughts and ideas in an online environment. This application is dedicated to making these interactions more meaningful and enjoyable.",
-        view   : "https://chat-react-apply.netlify.app/",
-        source : "https://github.com/Mohankumar-21/ChatApp"
+        title  : "Bank Personal Loan Modeling-(EDA)",
+        text   : "In this project, the main objective is to perform an Exploratory Data Analysis (EDA) on a dataset related to personal loan applications received by a bank, this project seeks to bridge the gap between historical application data and future loan eligibility. Through a combination of data exploration, visualization, and predictive modeling, we aspire to equip the bank with the tools necessary to assess risk, streamline lending processes, and extend financial opportunities to eligible customers. The ultimate goal of the analysis is to gain insights and understand patterns within the data that can aid in predicting whether a customer is eligible to take a loan or not.",
+        source : ""
     },
     {
         imgsrc : Game,
-        title  : "Memory Game",
-        text   : "The Memory Matching Card Game is an interactive web-based application that has been developed using React state management, asynchronous logic, and real-time user interactions. This game offers a fun and challenging experience that tests a player's memory and concentration skills while providing a dynamic and engaging user interface.",
-        view   : "https://memory-game-mohan.netlify.app/",
-        source : "https://github.com/Mohankumar-21/Memory_Game"
-    },
-    {
-        imgsrc : Feedback,
-        title  : "Feedback Management System",
-        text   : "The Feedback Application built with ReactJS is a user-friendly web platform designed to streamline and enhance the process of gathering feedback from students, ultimately leading to improved administration and educational experiences. This application provides an efficient and effective means for students to submit their feedback online.",
-        view   : "",
-        source : "https://github.com/Mohankumar-21/Feed-back"
-    },
-    {
-        imgsrc : blog,
-        title  : "Blog Application",
-        text   : "The React-based Blog Application is a dynamic and user-friendly web platform designed for creating, managing, and sharing blog posts. This application empowers users to share their thoughts, stories, and knowledge through a visually appealing and interactive interface.",
-        view   : "https://main--s-blog-site.netlify.app/",
-        source : "https://github.com/Mohankumar-21/S_Blog"
+        title  : "Countdown Timer Using Python",
+        text   : "This project offers a user-friendly timer with essential features like Reset and Stop for precise time tracking. Need to take a break? No problem, just Pause and Resume the countdown at your convenience. A practical and fun Python coding exercise that enhances your time management skills.",
+        source : ""
     }
+    
+
 ]
 
 export default ProjectCardData;
